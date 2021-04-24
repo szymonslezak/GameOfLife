@@ -1,5 +1,5 @@
 # GameOfLife
-Symulacja gry w życie
+Symulacja gry w życie w openframeworks
 
 # Efekt
 
